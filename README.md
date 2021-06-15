@@ -17,16 +17,16 @@ and realizes he has no idea what hes talking about
 
 1. raise funding to migrate all law to git, e.g. migrate html united states code on https://uscode.house.gov/ to this repo
 1. migrate law to git with funded and volunteer labor
-1. add a performance measuring tool similar to [flow](https://www.pluralsight.com/product/flow) to repos in org
-1. switch members of the senate and house of representatives from annual to hourly compensation
-1. require members of the senate and house of representatives to record hourly output in time tracker app similar to [toggl](https://toggl.com/), but with public reporting available
 1. issue git accounts to members of the senate and house of representatives
 1. train members of the senate and house of representatives on git
 1. require all changes to law as pull requests in git
-1. require public merge negotiations in pull requests
+1. require public merge negotiations in pull requests to police for judging matters strictly on their merits, free from [vote trading](https://en.wikipedia.org/wiki/Vote_trading)
 1. pull requests are merged to `enacted` branch
-1. measure personal hourly contribution of members of the senate and house of representatives to law
-1. measure fiscal performance per contribution
+1. add a performance measuring tool similar to [flow](https://www.pluralsight.com/product/flow) to repos in org
+1. switch members of the senate and house of representatives from annual to hourly compensation
+1. require members of the senate and house of representatives to record hourly output in time tracker app similar to [toggl](https://toggl.com/), but with public reporting available
+1. measure and publish personal hourly contribution of members of the senate and house of representatives to law
+1. measure and publish fiscal performance per contribution to inform elections with empirical data
 1. add `united-states-president` repo
 1. add `united-states-supreme-court` repo
 1. issue org access to state and local governments
