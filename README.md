@@ -16,7 +16,7 @@ and realizes he has no idea what hes talking about
 ### solution
 
 1. raise funding to migrate all law to git, e.g. migrate html united states code on https://uscode.house.gov/ to this repo
-1. migrate law to git
+1. migrate law to git with funded and volunteer labor
 1. add a performance measuring tool similar to [flow](https://www.pluralsight.com/product/flow) to repos in org
 1. switch members of the senate and house of representatives from annual to hourly compensation
 1. require members of the senate and house of representatives to record hourly output in time tracker app similar to [toggl](https://toggl.com/), but with public reporting available
@@ -35,3 +35,7 @@ and realizes he has no idea what hes talking about
 1. empower everyone to cite law from one place
 1. encourage law to be written in a lanugage where enforcement is automated, e.g. typescript
 1. reduce cost of law enforcement through code
+
+### resources
+1. drive [folder](https://drive.google.com/drive/folders/13BK7GY93sUZcma62SQe3_EHjVKZ7Uepf?usp=sharing)
+1. org [project](https://github.com/orgs/legal-index/projects)
