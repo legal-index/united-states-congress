@@ -1,5 +1,11 @@
 # improving legislative efficiency
 
+```
+stop me if you heard this one...
+george washington walks into a room full of information scientists
+and realizes he has no idea what hes talking about
+```
+
 ### problem
 
 1. the 18th century legislative process is too inefficient for the 21st century
